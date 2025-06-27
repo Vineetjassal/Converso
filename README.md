@@ -1,14 +1,11 @@
 # Converso
 
 <p align="center">
-  <a href="https://formaxis.vercel.app">
+  <a href="https://getconverso.vercel.app">
     <img src="./docs/screenshot.png" alt="Logo" />
   </a>
 </p>
 
-<h3 align="center">
-<a href="https://formaxis.vercel.app" target="_blank">Converso</a>
-</h3>
 
 <p align="center">
 AI-native Forms that are purely conversational. You set up the form or survey by just writing down a bunch of prompts. It gives you a link you can share for people to “fill out the form.” But it’s just a chat UI.
